@@ -7,7 +7,6 @@ from pptx import Presentation
 
 from config import DATA_DIR
 
-# 注释
 
 class DocumentLoader:
     def __init__(
