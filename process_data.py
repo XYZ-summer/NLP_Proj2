@@ -5,7 +5,7 @@ from vector_store import VectorStore
 
 from config import DATA_DIR, CHUNK_SIZE, CHUNK_OVERLAP, VECTOR_DB_PATH
 
-
+# 111
 def main():
     if not os.path.exists(DATA_DIR):
         print(f"数据目录不存在: {DATA_DIR}")
