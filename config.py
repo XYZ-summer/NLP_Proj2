@@ -18,4 +18,3 @@ MAX_TOKENS =
 
 # RAG配置
 TOP_K = 
-# test 3
